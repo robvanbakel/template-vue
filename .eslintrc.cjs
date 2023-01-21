@@ -12,6 +12,7 @@ module.exports = {
     "eslint:recommended",
     "@vue/eslint-config-typescript",
     "@vue/eslint-config-prettier",
+    "plugin:tailwindcss/recommended",
   ],
   parserOptions: {
     ecmaVersion: "latest",
