@@ -4,10 +4,10 @@ Repository template including Vue, Tailwind, ESLint
 
 ### Install dependencies
 ```
-yarn install
+pnpm install
 ```
 
 ### Run locally
 ```
-yarn dev
+pnpm dev
 ```
